@@ -1,0 +1,29 @@
+.forInp {
+  background-color: azure;
+  padding: 15px;
+  border-radius: 10px;
+  border-left: solid 5px orangered;
+  border-bottom: solid 5px orangered;
+  font-weight: bold;
+  height: 150px;
+  width: 30vw;
+  margin-top: 26px;
+  margin-bottom: 0px;
+}
+
+.for-speed {
+  background-color: transparent;
+
+  border-radius: 5px;
+  padding: 5px;
+  color: purple;
+  font-weight: bold;
+  font-size: 19px;
+}
+
+.for-List {
+  color: Black;
+  margin-left: 20px;
+  font-size: 15px;
+  margin-top: 5px;
+}

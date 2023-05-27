@@ -1,0 +1,47 @@
+.hhh {
+  font-family: 'caveat';
+  color: red;
+}
+.over-image-container {
+  display: flex;
+  flex-direction: row;
+}
+.for-header {
+  color: #ffffff;
+  font-family: 'caveat';
+  font-weight: bold;
+  font-size: 54px;
+  text-shadow: 3px 2px 3px black;
+  width: 400px;
+}
+.for-button {
+  background-image: linear-gradient(#d6f016, orange);
+  padding: 10px;
+  width: 100px;
+  cursor: pointer;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 25px;
+  font-weight: 500;
+  border-width: 0px;
+  border-radius: 10px;
+}
+
+.for-background {
+  background-color: #13184d;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  overflow: auto;
+}
+.for-image {
+  height: 200px;
+  width: 200px;
+}
+.image-container {
+  background-color: #0e8269;
+
+  border-radius: 20px;
+  box-shadow: 20px 10px 25px black;
+}
